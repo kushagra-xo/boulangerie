@@ -1,7 +1,7 @@
 body{
 	background: #363636;
 	color: #ffffff;
-	margin: 4%;
+	margin: 2%;
 }
 
 ul{
@@ -19,7 +19,6 @@ h1,h2{
 img{
 	display: block;
 	margin: auto;
-	padding: 2%;
 }
 
 .blueberry#header{
