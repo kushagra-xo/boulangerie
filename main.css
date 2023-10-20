@@ -1,6 +1,7 @@
 body{
 	background: #363636;
 	color: #ffffff;
+	margin: 40px;
 }
 
 ul{
@@ -9,6 +10,15 @@ ul{
 
 a{
 	color: #ffffff;
+}
+
+h1,h2{
+	text-align: center;
+}
+
+img{
+	display: block;
+	margin: auto;
 }
 
 .blueberry#header{
