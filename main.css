@@ -2,10 +2,6 @@
 	color: #645579;
 }
 
-body {
-	text-align: center;
-}
-
-ul {
-	text-align: left;
+#header{
+	font-family: sans;
 }
