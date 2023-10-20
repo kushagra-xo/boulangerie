@@ -1,11 +1,11 @@
 body{
 	background: #363636;
 	color: #ffffff;
-	margin: 40px;
+	margin: 4%;
 }
 
 ul{
-	margin: 40px;
+	margin: 1%;
 }
 
 a{
@@ -19,6 +19,7 @@ h1,h2{
 img{
 	display: block;
 	margin: auto;
+	padding: 2%;
 }
 
 .blueberry#header{
