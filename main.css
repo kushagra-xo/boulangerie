@@ -1,5 +1,18 @@
-.blueberry#header {
-	color: #645579;
+body{
+	background: #363636;
+	color: #ffffff;
+}
+
+ul{
+	margin: 40px;
+}
+
+a{
+	color: #ffffff;
+}
+
+.blueberry#header{
+	color: #8571ba;
 }
 
 #header{
