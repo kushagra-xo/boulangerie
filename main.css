@@ -21,11 +21,17 @@ h1,h2{
 
 img{
 	display: block;
-	margin: 5% auto;;;
+	margin: 5% auto;
+	border: solid #aaff00 5px;
+	border-radius: 40px;
 }
 
 .blueberry#header{
 	color: #8571ba;
+}
+
+.blueberry.img{
+	border: solid #8571ba 5px;
 }
 
 .recipe-items{
@@ -52,4 +58,8 @@ img{
 
 #dummies{
 	color: #aaff00;
+}
+
+.homepage#header{
+	font-size: 10px;
 }
