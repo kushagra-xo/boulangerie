@@ -1,22 +1,15 @@
  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body{
-	background: #101010;
+	background: linear-gradient(to bottom right, rgba(10, 10, 10, 1), rgba(00, 00, 00, 0.7));
+;
 	color: #ffffff;
-	margin: 2%;
+	margin: 4%;
 	font-family: Poppins;
-}
-
-ul{
-	margin: 1%;
 }
 
 a{
 	color: #ffffff;
-}
-
-h1,h2{
-	text-align: center;
 }
 
 img{
@@ -50,14 +43,22 @@ img{
 	gap: 5%;
 	flex-wrap: wrap;
 	margin: 5%;
+	align-items: center;
 }
 
 #dummies{
 	color: #aaff00;
-	font-weight: thin;
 }
 
 .homepage #header{
-	font-size: 50px;
-	padding-top: 6%;
+	font-size: 300%;
+	flex: 1;
+}
+
+#header{
+	text-align: center;
+}
+
+.bottom-nav{
+	text-align:center;
 }
